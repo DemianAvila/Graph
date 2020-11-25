@@ -75,3 +75,8 @@ Does the same as mrwov, but this only return the pairs "key-value" in whose valu
 ### inct
 #### short for "I'm not connected to"
 Does the same as ovrwn, but this only return the pairs "key-value" in whose value equals 0
+
+# Things to do for the next version
+1.- Obtain the graph from a csv file, validate it, work on it and write the new graph in other file or overwrite it
+2.- Obtain the graph from an 2D Array, validate it, work on it and write the new graph in other array 2D or overwrite it
+3.- Find a way to generate an image with the graph represented in the traditional way, and not as a matrix
